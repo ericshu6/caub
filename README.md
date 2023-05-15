@@ -1,6 +1,6 @@
 # caub offline
 cuz [caub](https://caub.glitch.me) is blocked
-this is being hosted on [caub.onrender.com]
+this is being hosted on https://caub.onrender.com
 
 if you are the author of caub, please contact me
 
